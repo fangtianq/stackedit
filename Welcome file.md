@@ -1,7 +1,7 @@
 # 欢迎来到 StackEdit 中文版！
 
 你好！我是你在 **StackEdit中文版** 中的第一个 Markdown 文件。如果你想了解 StackEdit中文版，可以阅读此文章。如果你想玩 Markdown，你也可以编辑此文章。另外，您可以通过打开导航栏左边的**文件资源管理器**来创建新文件。
-![输入图片说明](/imgs/2025-04-02/GTKImpN12LYCsYdT.png)
+![输入图片说明](/imgs/2025-04-02/GTKImpN12LYCsYdT.png)输入图片说明
 ![输入图片说明](/imgs/2025-04-02/LW5YR97IvVT7oleM.png)
 # 文件
 
@@ -144,6 +144,7 @@ A --> C(圆角矩形)
 B --> D{菱形}
 C --> D
 ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI2NzA3NzE3LDk1MzQ5Mzk0MF19
+eyJoaXN0b3J5IjpbMjgzNzMwNjg2LDk1MzQ5Mzk0MF19
 -->
